@@ -1,0 +1,22 @@
+body{ 
+    font-family: "Caesar Dressing";
+    }
+    
+    #title {
+      text-align: center;
+    }
+    #img-caption {
+      text-align: center;
+    }
+    img{
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: auto;
+    }
+    
+    #tribute-link { 
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    }
